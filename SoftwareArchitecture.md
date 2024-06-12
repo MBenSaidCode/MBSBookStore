@@ -1,7 +1,7 @@
 
-## Software architecture
+# Software architecture
 
-### 1. Dependencies between layers
+## 1. Dependencies between layers
 
 Presentation Layer
 │
@@ -14,7 +14,7 @@ Presentation Layer
     │
     └─> Infrastructure Layer
 
-### 2. Structure of each layer in a software architecture
+## 2. Structure of each layer in a software architecture
 
 Presentation Layer
 ├── Controllers
